@@ -1,0 +1,101 @@
+2025-06-03 17:04:46,826 - INFO - Auto-Approval app started
+2025-06-03 17:04:46,826 - INFO - Auto-Approval app started
+2025-06-03 17:04:46,826 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:04:46,842 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:05:01,230 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:05:01,428 - ERROR - Failed to load SentenceTransformer: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-06-03 17:06:35,487 - INFO - Auto-Approval app started
+2025-06-03 17:06:35,487 - INFO - Auto-Approval app started
+2025-06-03 17:06:35,487 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:06:35,504 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:06:50,572 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:06:50,774 - ERROR - Failed to load SentenceTransformer: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-06-03 17:06:57,518 - INFO - Auto-Approval app started
+2025-06-03 17:06:57,520 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:07:00,496 - ERROR - Failed to load SentenceTransformer: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-06-03 17:07:06,048 - INFO - Auto-Approval app started
+2025-06-03 17:07:06,050 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:07:08,787 - ERROR - Failed to load SentenceTransformer: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-06-03 17:11:09,118 - INFO - Auto-Approval app started
+2025-06-03 17:11:09,134 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:11:15,535 - ERROR - Failed to load SentenceTransformer: Could not find BertModel neither in <module 'transformers.models.bert' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\models\\bert\\__init__.py'> nor in <module 'transformers' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\__init__.py'>!
+2025-06-03 17:12:52,406 - INFO - Auto-Approval app started
+2025-06-03 17:12:52,406 - INFO - Auto-Approval app started
+2025-06-03 17:12:52,406 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:12:52,423 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:12:59,086 - ERROR - Failed to load SentenceTransformer: Could not find BertModel neither in <module 'transformers.models.bert' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\models\\bert\\__init__.py'> nor in <module 'transformers' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\__init__.py'>!
+2025-06-03 17:12:59,225 - ERROR - Failed to load SentenceTransformer: Could not find BertModel neither in <module 'transformers.models.bert' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\models\\bert\\__init__.py'> nor in <module 'transformers' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\__init__.py'>!
+2025-06-03 17:13:01,635 - INFO - Auto-Approval app started
+2025-06-03 17:13:01,637 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:13:03,423 - ERROR - Failed to load SentenceTransformer: Could not find BertModel neither in <module 'transformers.models.bert' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\models\\bert\\__init__.py'> nor in <module 'transformers' from 'C:\\Users\\paarth.sahni_infobea\\Downloads\\Car_new\\car_env\\lib\\site-packages\\transformers\\__init__.py'>!
+2025-06-03 17:21:48,075 - INFO - Auto-Approval app started
+2025-06-03 17:21:48,092 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:22:00,043 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:22:00,047 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:22:14,875 - INFO - Auto-Approval app started
+2025-06-03 17:22:14,876 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:22:17,693 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:22:17,693 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:22:19,411 - INFO - Auto-Approval app started
+2025-06-03 17:22:19,415 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:22:19,491 - INFO - Auto-Approval app started
+2025-06-03 17:22:19,491 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:22:22,307 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:22:22,315 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:22:22,483 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:22:22,499 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:22:24,862 - INFO - User admin logged in successfully
+2025-06-03 17:22:25,028 - INFO - Auto-Approval app started
+2025-06-03 17:22:25,029 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:22:27,861 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:22:27,869 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:22:52,320 - INFO - Auto-Approval app started
+2025-06-03 17:22:52,321 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:22:55,308 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:22:55,324 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:22:55,351 - INFO - Image validated: test_2.jpg, type: image/jpeg, size: 35557 bytes
+2025-06-03 17:22:55,438 - INFO - Auto-approval result for user admin: Approved, estimate: $500-$1,000
+2025-06-03 17:23:00,516 - INFO - Auto-approval claim saved for admin
+2025-06-03 17:23:16,034 - INFO - Auto-Approval app started
+2025-06-03 17:23:16,048 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:23:19,691 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:23:19,691 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:23:19,706 - INFO - User None logged out
+2025-06-03 17:23:19,870 - INFO - Auto-Approval app started
+2025-06-03 17:23:19,871 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:23:22,760 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:23:22,760 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:24:06,760 - INFO - Auto-Approval app started
+2025-06-03 17:24:06,762 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:24:06,896 - INFO - Auto-Approval app started
+2025-06-03 17:24:06,897 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-03 17:24:09,888 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:24:09,888 - INFO - SentenceTransformer model loaded successfully
+2025-06-03 17:24:10,061 - INFO - Use pytorch device_name: cpu
+2025-06-03 17:24:10,560 - ERROR - Failed to load SentenceTransformer: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-06-04 11:32:57,032 - INFO - Auto-Approval app started
+2025-06-04 11:32:57,051 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-04 11:33:13,579 - INFO - Use pytorch device_name: cpu
+2025-06-04 11:33:13,595 - INFO - SentenceTransformer model loaded successfully
+2025-06-04 11:33:33,646 - INFO - Auto-Approval app started
+2025-06-04 11:33:33,649 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-04 11:33:36,236 - INFO - Use pytorch device_name: cpu
+2025-06-04 11:33:36,236 - INFO - SentenceTransformer model loaded successfully
+2025-06-04 11:33:36,847 - INFO - Auto-Approval app started
+2025-06-04 11:33:36,847 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-04 11:33:36,945 - INFO - Auto-Approval app started
+2025-06-04 11:33:36,945 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-04 11:33:39,329 - INFO - Use pytorch device_name: cpu
+2025-06-04 11:33:39,329 - INFO - SentenceTransformer model loaded successfully
+2025-06-04 11:33:40,085 - INFO - Use pytorch device_name: cpu
+2025-06-04 11:33:40,092 - INFO - SentenceTransformer model loaded successfully
+2025-06-04 11:33:44,147 - ERROR - ConnectionError: FastAPI server not reachable
+2025-06-04 11:35:59,165 - INFO - Auto-Approval app started
+2025-06-04 11:35:59,166 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-04 11:36:01,856 - INFO - Use pytorch device_name: cpu
+2025-06-04 11:36:01,859 - INFO - SentenceTransformer model loaded successfully
+2025-06-04 11:36:04,220 - INFO - User admin logged in successfully
+2025-06-04 11:36:04,386 - INFO - Auto-Approval app started
+2025-06-04 11:36:04,386 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-04 11:36:06,896 - INFO - Use pytorch device_name: cpu
+2025-06-04 11:36:06,900 - INFO - SentenceTransformer model loaded successfully
